@@ -1,0 +1,17 @@
+Name	Plasmid Type	Species	PCN Mean	PCN SD	Size (Kb)	Special Notes	ref	Reference
+pBMB2062	RCR	B. thuringiensis	172	5.67	2.062		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB7635	RCR	B. thuringiensis	136	6.36	7.635	TA system	https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB7921	RCR	B. thuringiensis	64.7	1.12	7.921		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB8240	?	B. thuringiensis	139	1.76	8.24	TA sysmtem	https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB8513	RCR	B. thuringiensis	74.7	1.44	8.513		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB11	RCR	B. thuringiensis	34.7	0.69	11.769		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB67	𝛉	B. thuringiensis	21.3	1.06	67.73		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB69	𝛉	B. thuringiensis	17.6	0.7	69.416		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB95	𝛉	B. thuringiensis	6.43	0.09	95.15		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB293	?	B. thuringiensis	2.72	0.16	293.574		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBMB400	?	B. thuringiensis	1.38	0.14	416.21		https://doi.org/10.1371/journal.pone.0016025	zhong2011determination
+pBluescript	ColE1 (derivative) and F1	E. coli XL1Blue	130	0	2.961		https://doi.org/10.1139/w98-020	smith1998bacterial
+pBluescript+700	ColE1 (derivative) and F2	E. coli XL1Blue	110	0	3.661		https://doi.org/10.1139/w98-020	smith1998bacterial
+pBluescript+9000 	ColE1 (derivative) and F3	E. coli XL1Blue	30	0	11.961		https://doi.org/10.1139/w98-020	smith1998bacterial
+pNI105	pSC101?	P. aeruginosa PAO1	18	2.4	4.95		https://doi.org/10.1038/ismej.2013.182	san2014positive
+pBGT	ColE1	E. coli	19	1.56	5.369		https://doi.org/10.1038/s41559-016-0010	SanMillan2016

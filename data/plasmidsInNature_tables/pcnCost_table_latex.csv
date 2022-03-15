@@ -1,0 +1,13 @@
+Name,Plasmid Type,Species,PCN,PCN SD,Cost,Cost SD,Reference
+pB1006,ColE1,\textit{Haemophilus influenzae} RdKW20,10.530,1.112,0.021,0.012,\cite{Santos2017}
+pB1005,ColE1,\textit{Haemophilus influenzae} RdKW20,20.450,2.590,0.05,0.013,\cite{Santos2017}
+pB1000,ColE1,\textit{Haemophilus influenzae} RdKW20,25.020,1.920,0.054,0.002,\cite{Santos2017}
+pNI105,,\textit{Pseudomonas aeruginosa},18.000,2.400,0.132,0.025,\cite{san2014positive}
+ 2-uM,,\textit{Saccharomyces cerevisiae},52.000,0.000,0.0884,0.00416,\cite{Harrison2012}
+pNUK73,,\textit{Pseudomonas aeruginosa},11.030,1.890,0.214,0.008,\cite{san2014positive}
+pBGT,ColE1,\textit{Escherichia coli},19.120,1.560,0.057,0.013,\cite{SanMillan2016}
+pBGT R164S,ColE1,\textit{Escherichia coli},21.100,0.850,0.057,0.003,\cite{SanMillan2016}
+pBGT G54U,ColE1,\textit{Escherichia coli},44.500,3.810,0.207,0.019,\cite{SanMillan2016}
+pBGT G55U,ColE1,\textit{Escherichia coli},88.930,15.650,0.443,0.116,\cite{SanMillan2016}
+pBGT R164S G54U,ColE1,\textit{Escherichia coli},52.300,2.190,0.238,0.016,\cite{SanMillan2016}
+pBGT R164S G55U,ColE1,\textit{Escherichia coli},127.290,4.580,0.491,0.082,\cite{SanMillan2016}
