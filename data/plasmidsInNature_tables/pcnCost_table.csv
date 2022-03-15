@@ -1,0 +1,13 @@
+Name	Plasmid Type	Species	PCN	PCN SD	Cost	Cost SD	Rel F	Rel F SD	seg rate	doi	Reference
+pB1006	ColE1	Haemophilus influenzae RdKW20	10.530	1.112	0.021	0.012	0.979	0.012		https://doi.org/10.1101/187070	Santos2017
+pB1005	ColE1	Haemophilus influenzae RdKW20	20.450	2.590	0.05	0.013	0.950	0.013		https://doi.org/10.1101/187070	Santos2017
+pB1000	ColE1	Haemophilus influenzae RdKW20	25.020	1.920	0.054	0.002	0.946	0.002		https://doi.org/10.1101/187070	Santos2017
+pNI105		Pseudomonas aeruginosa	18.000	2.400	0.132	0.025	0.868	0.868		https://doi.org/10.1038/ismej.2013.182	san2014positive
+ 2-uM		Saccharomyces cerevisiae	52.000	0.000	0.0884	0.00416	0.9116	0.00416	7.6 x10-5	https://doi.org/10.1111/j.1420-9101.2012.02610.x	Harrison2012
+pNUK73		Pseudomonas aeruginosa	11.030	1.890	0.214	0.008	0.786	0.008		https://doi.org/10.1038/ismej.2013.182	san2014positive
+pBGT	ColE1	Escherichia coli	19.120	1.560	0.057	0.013	0.943	0.013		https://doi.org/10.1038/s41559-016-0010	SanMillan2016
+pBGT R164S	ColE1	Escherichia coli	21.100	0.850	0.057	0.003	0.943	0.003		https://doi.org/10.1038/s41559-016-0010	SanMillan2016
+pBGT G54U	ColE1	Escherichia coli	44.500	3.810	0.207	0.019	0.793	0.019		https://doi.org/10.1038/s41559-016-0010	SanMillan2016
+pBGT G55U	ColE1	Escherichia coli	88.930	15.650	0.443	0.116	0.557	0.116		https://doi.org/10.1038/s41559-016-0010	SanMillan2016
+pBGT R164S G54U	ColE1	Escherichia coli	52.300	2.190	0.238	0.016	0.762	0.016		https://doi.org/10.1038/s41559-016-0010	SanMillan2016
+pBGT R164S G55U	ColE1	Escherichia coli	127.290	4.580	0.491	0.082	0.509	0.082		https://doi.org/10.1038/s41559-016-0010	SanMillan2016

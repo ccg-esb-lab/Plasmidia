@@ -1,0 +1,17 @@
+Name,Plasmid Type,Species,PCN Mean,PCN SD,Size (Kb),Reference
+pBMB2062,RCR,\textit{B. thuringiensis},172,5.67,2.062,\cite{zhong2011determination}
+pBMB7635,RCR,\textit{B. thuringiensis},136,6.36,7.635,\cite{zhong2011determination}
+pBMB7921,RCR,\textit{B. thuringiensis},64.7,1.12,7.921,\cite{zhong2011determination}
+pBMB8240,?,\textit{B. thuringiensis},139,1.76,8.24,\cite{zhong2011determination}
+pBMB8513,RCR,\textit{B. thuringiensis},74.7,1.44,8.513,\cite{zhong2011determination}
+pBMB11,RCR,\textit{B. thuringiensis},34.7,0.69,11.769,\cite{zhong2011determination}
+pBMB67,$\theta$,\textit{B. thuringiensis},21.3,1.06,67.73,\cite{zhong2011determination}
+pBMB69,$\theta$,\textit{B. thuringiensis},17.6,0.7,69.416,\cite{zhong2011determination}
+pBMB95,$\theta$,\textit{B. thuringiensis},6.43,0.09,95.15,\cite{zhong2011determination}
+pBMB293,?,\textit{B. thuringiensis},2.72,0.16,293.574,\cite{zhong2011determination}
+pBMB400,?,\textit{B. thuringiensis},1.38,0.14,416.21,\cite{zhong2011determination}
+pBluescript,ColE1 (derivative) and F1,\textit{E. coli} XL1Blue,130,0,2.961,\cite{smith1998bacterial}
+pBluescript+700,ColE1 (derivative) and F2,\textit{E. coli} XL1Blue,110,0,3.661,\cite{smith1998bacterial}
+pBluescript+9000 ,ColE1 (derivative) and F3,\textit{E. coli} XL1Blue,30,0,11.961,\cite{smith1998bacterial}
+pNI105,pSC101?,\textit{P. aeruginosa} PAO1,18,2.4,4.95,\cite{san2014positive}
+pBGT,ColE1,\textit{E. coli},19,1.56,5.369,\cite{SanMillan2016}
