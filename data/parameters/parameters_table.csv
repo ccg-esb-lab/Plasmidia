@@ -1,0 +1,7 @@
+Parameter,Measured value,Formula,Estimated value,Description
+r,0.4354352275,NA,NA,plasmid strain growth rate
+ρ,0.0523347955,NA,NA,WT growth rate advantage
+σ,6.07408961666667,NA,NA,exponential phase duration
+μ_n,NA,μ_n1-( ((r*2^-n)+ρ)/( (r*2^-n)*exp((r*2^-n+ρ)*σ) +ρ) ),5.93866169917856e-06,1-day fraction of segregants
+κ_n,NA,κ_n=(ρ*(1-exp(-(r*2^-n+ρ)*σ)) )/(ρ+r*2^-n),0.272313782742246,fitness cost
+n,19,NA,NA,plasmid copy number
